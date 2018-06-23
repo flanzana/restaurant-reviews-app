@@ -1,0 +1,87 @@
+@charset "utf-8";
+/* CSS Document */
+
+/* ---- GENERAL ------ */
+
+body {
+	
+}
+
+h1, h2, h3, h4, h5, h6 {
+	
+}
+
+article, aside, canvas, details, figcaption, figure, header, footer, hgroup, menu, nav, section {
+	
+}
+
+#maincontent {
+	
+}
+
+footer {
+
+}
+
+/* ====================== Navigation ====================== */
+nav {
+
+}
+
+nav h1 {
+	
+}
+
+
+/* ====================== Map ====================== */
+#map {
+
+}
+/* ====================== Restaurant Filtering ====================== */
+.filter-options {
+
+}
+
+.filter-options select {
+
+}
+
+/* ====================== Restaurant Listing ====================== */
+#restaurants-list {
+
+}
+#restaurants-list li {
+
+}
+
+/* ====================== Restaurant Details ====================== */
+.inside header {
+
+}
+.inside #map-container {
+
+}
+.inside #map {
+
+}
+.inside #footer {
+
+}
+
+#restaurant-img {
+	
+}
+
+#restaurant-cuisine {
+
+}
+#restaurant-container, #reviews-container {
+
+}
+#reviews-container {
+	
+}
+
+#reviews-list li {
+
+}
