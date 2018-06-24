@@ -44,7 +44,6 @@ nav h1 a {
 
 #reviews-list li {
 	width: calc(100% - 20px);
-	padding: 0 10px 20px;
 }
 
 #restaurant-name {
