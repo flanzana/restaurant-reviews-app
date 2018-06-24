@@ -42,10 +42,6 @@ nav h1 a {
 	padding: 0 20px 20px;
 }
 
-#reviews-list li {
-	width: calc(100% - 20px);
-}
-
 #restaurant-name {
 	font-size: 20px;
 	line-height: 1;
@@ -80,9 +76,6 @@ nav h1 a {
 #restaurant-container, #reviews-container {
 	width: calc(100% - 80px);
 	padding: 30px 40px 30px;
-}
-#reviews-list li {
-	width: calc(100% - 40px);
 }
 
 
@@ -126,7 +119,7 @@ nav h1 a {
 
 /* Restaurant and review containers */
 #restaurant-container, #reviews-container {
-	width: calc(50% - 40px);
+	width: calc(50% - 80px);
 	padding: 30px 40px 30px;
 }
 
