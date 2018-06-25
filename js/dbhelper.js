@@ -8,8 +8,13 @@ class DBHelper {
    * Change this to restaurants.json file location on your server.
    */
   static get DATABASE_URL() {
+    // For using localport:
+    /*
     const port = 4444 // Change this to your server port
     return `http://localhost:${port}/data/restaurants.json`;
+    */
+    // For using page on github:
+    return 'https://flanzana.github.io/restaurant-reviews-app/data/restaurants.json';
   }
 
   /**
