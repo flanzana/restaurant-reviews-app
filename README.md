@@ -6,11 +6,6 @@ For the **Restaurant Reviews** project, I took a static design that lacks access
 
 ## Installation
 - Open [Restaurant Reviews](https://flanzana.github.io/restaurant-reviews-app/) and enjoy the website.
-- If you prefer to use localhost, then follow the instructions:
- - Clone or download the project.
- - In file `js/dbhelper.js` uncomment row 13 and 14 and comment row 17.
- - In a terminal, check the version of Python you have: `python -V`. If you have Python 2.x, spin up the server with `python -m SimpleHTTPServer 4444` (or some other port, if port 4444 is already in use.) For Python 3.x, you can use `python -m http.server 4444`. If you don't have Python installed, navigate to Python's [website](https://www.python.org/) to download and install the software.
- - With your server running, visit the site: `http://localhost:4444`.
 
 
 ## How I built the app
@@ -18,5 +13,6 @@ I have been provided the code for a restaurant reviews website. The code had a l
 
 ## Sources
 - Code from Udacity classroom
+- Study Jam 3 from [livestream](https://www.youtube.com/watch?v=TxXwlOAXUko)
 - [leafletjs](https://leafletjs.com/) with [Mapbox](https://www.mapbox.com/)
 - Map from OpenStreetMap
