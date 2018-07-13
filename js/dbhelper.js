@@ -9,12 +9,14 @@ class DBHelper {
    */
   static get DATABASE_URL() {
     // For using localport:
-    /*
-    const port = 4444 // Change this to your server port
+    const port = 5555; // Change this to your server port
     return `http://localhost:${port}/data/restaurants.json`;
-    */
+
     // For using page on github:
-    return 'https://flanzana.github.io/restaurant-reviews-app/data/restaurants.json';
+    //return 'https://flanzana.github.io/restaurant-reviews-app/data/restaurants.json';
+
+    // For using anything
+    //return '/data/restaurants.json';
   }
 
   /**
