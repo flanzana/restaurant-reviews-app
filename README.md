@@ -6,8 +6,8 @@ For the **Restaurant Reviews** project, I took a static design that lacks access
 
 ## Installation
 - Clone or download the repo [Restaurant Reviews](https://github.com/flanzana/restaurant-reviews-app).
-- Run `python3 -m http.server 8000` in your terminal if you have Python installed on your computer. If you don't have Python installed, navigate to Python's [website](https://www.python.org/) to download and install the software.
-- Visit [the localhost website](http://localhost:8000).
+- Run `python3 -m http.server 5555` in your terminal if you have Python installed on your computer. If you don't have Python installed, navigate to Python's [website](https://www.python.org/) to download and install the software.
+- Visit [the localhost website](http://localhost:5555).
 
 
 ## How I built the app
